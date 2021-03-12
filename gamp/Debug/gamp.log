@@ -1,0 +1,31 @@
+﻿  brdceph.c
+  gampPos.c
+  ionex.c
+  lambda.c
+  main.c
+  myMath.c
+  myPpp.c
+  myRinex.c
+  myRtkcmn.c
+  myStr.c
+  ppp.c
+  prePpp.c
+  preceph.c
+  results.c
+  rinex.c
+  rtkcmn.c
+D:\gamp\gamp\gamp\rtkcmn.c(2757,24): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
+D:\gamp\gamp\gamp\rtkcmn.c(2757,24): message : 请考虑在格式字符串中使用“%ls”
+D:\gamp\gamp\gamp\rtkcmn.c(2757,24): message : 请考虑在格式字符串中使用“%lls”
+D:\gamp\gamp\gamp\rtkcmn.c(2757,24): message : 请考虑在格式字符串中使用“%Ls”
+D:\gamp\gamp\gamp\rtkcmn.c(2757,24): message : 请考虑在格式字符串中使用“%ws”
+D:\gamp\gamp\gamp\rtkcmn.c(2760,28): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“WCHAR *”
+D:\gamp\gamp\gamp\rtkcmn.c(2760,28): message : 请考虑在格式字符串中使用“%ls”
+D:\gamp\gamp\gamp\rtkcmn.c(2760,28): message : 请考虑在格式字符串中使用“%lls”
+D:\gamp\gamp\gamp\rtkcmn.c(2760,28): message : 请考虑在格式字符串中使用“%Ls”
+D:\gamp\gamp\gamp\rtkcmn.c(2760,28): message : 请考虑在格式字符串中使用“%ws”
+D:\gamp\gamp\gamp\rtkcmn.c(2815,25): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+  spp.c
+  tides.c
+  正在生成代码...
+  gamp.vcxproj -> D:\gamp\gamp\Debug\gamp.exe
